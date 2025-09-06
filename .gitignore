@@ -1,0 +1,13 @@
+dist/
+build/
+node_modules/
+.yarn/
+*.pyc
+*.zip
+*.gz
+*.pdf
+*.png
+*.jpg
+*.ttf
+*.otf
+.DS_Store
